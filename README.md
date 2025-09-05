@@ -19,7 +19,7 @@
 
 ### [Web Portfolio](https://kimeden.com/)
   
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ps)
+![My Skills](https://skillicons.dev/icons?i=javascript,ps)
 
 <br>
 
