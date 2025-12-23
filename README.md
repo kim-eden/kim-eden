@@ -1,6 +1,6 @@
 # Hello, I'm Eden Kim
 ###  I’m working to become an iOS developer.
-[![velog](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/kim--eden)
+[![velog](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kim--eden)
 <br>
 
 ## Main Tech Stack
