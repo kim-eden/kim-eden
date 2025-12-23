@@ -1,7 +1,6 @@
 # Hello, I'm Eden Kim
 ###  I’m working to become an iOS developer.
-[![velog](https://raw.githubusercontent.com/EdenAppleDev/EdenAppleDev/main/svg/velog.svg?sanitize=true)](https://velog.io/@edenkim/posts)
-<!--[![tistory](https://raw.githubusercontent.com/EdenAppleDev/EdenAppleDev/main/svg/tistory.svg?sanitize=true)](https://kimeden.tistory.com)-->
+[![velog](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/kim--eden)
 <br>
 
 ## Main Tech Stack
@@ -19,7 +18,7 @@
 
 ### [Web Portfolio](https://kimeden.com/)
   
-![My Skills](https://skillicons.dev/icons?i=javascript,ps)
+![My Skills](https://skillicons.dev/icons?i=javascript)
 
 <br>
 
